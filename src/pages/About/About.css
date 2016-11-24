@@ -1,0 +1,13 @@
+.Main-body {
+    padding: 20px;
+    border: 5px, solid, black;
+}
+
+p {
+    font-family: cursive;
+}
+
+.textContainer {
+    margin: auto;
+    width: 60%;
+}
